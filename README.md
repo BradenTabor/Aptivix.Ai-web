@@ -138,4 +138,3 @@ This project is proprietary software for Aptivix.Ai.
 
 - Website: [aptivix.ai](https://aptivix.ai)
 - Email: hello@aptivix.ai
-
