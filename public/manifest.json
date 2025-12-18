@@ -1,0 +1,31 @@
+{
+  "name": "Aptivix.Ai - AI-Powered Software Development",
+  "short_name": "Aptivix.Ai",
+  "description": "Transform your business with AI-powered software solutions. We build websites, web apps, mobile apps, and automate up to 90% of your tasks and workflows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#22d3ee",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "productivity", "technology"],
+  "lang": "en-US"
+}
